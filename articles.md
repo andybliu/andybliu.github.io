@@ -5,7 +5,7 @@ title: academic writing
 
  **"Production, Circulation, and Accumulation: The Historiographies of Capitalism in China and South Asia"**  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Journal of Asian Studies*  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vol. 78, no. 4, 767-788
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vol. 78, no. 4, 767-788  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2019
  
  > [Interview on #AsiaNow blog](https://www.asianstudies.org/production-circulation-and-accumulation-andrew-liu-on-the-historiographies-of-capitalism-in-china-and-south-asia/)   
