@@ -18,7 +18,7 @@ Also [available on JSTOR](https://www.jstor.org/stable/j.ctvzpv6sm) for readers 
 Obligatory link to [Bookshop.org](https://bookshop.org/books/tea-war-a-history-of-capitalism-in-china-and-india/9780300243734?aid=10015)
 
 
-## reviews
+## some nice reviews
 **["Capitalism is not a 'Free Labor' System"](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india)**  
 ***Jacobin Magazine***  
 by Yueran Zhang   
@@ -28,8 +28,6 @@ January 10, 2021
 ***The Economist***  
 by Jeffrey Wasserstrom  
 July 24, 2020
-
-
 
 **["Chai Capitalism"](https://newramblerreview.com/book-reviews/history/chai-capitalism)**  
 ***New Rambler Review***   
@@ -41,7 +39,7 @@ December 10, 2020
 by Francis Wade
 July 16, 2020
 
-## short features
+## short features by me
 
 [**"Tea and capitalism: The China tea trade was a paradox -- a global, intensified industry without the usual spectacle of factories and technology"**](https://aeon.co/essays/the-china-tea-trade-was-a-paradox-of-global-capitalism)  
 ***Aeon Magazine***  
