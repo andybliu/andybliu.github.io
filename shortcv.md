@@ -67,11 +67,11 @@ title: short c.v.
 ### **2008-09**  
 **Freeman Fellowship Language Grant**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blakemore Foundation  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Chinese language study at the International Chinese Language Program (ICLP), National Taiwan University)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (language study at the International Chinese Language Program (ICLP), National Taiwan University)
 
 ### **2006-2008**  
 **Foreign Language and Area Studies Fellowship**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (study of Bengali, Chinese, and Japanese language)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (language study for Bengali, Chinese, and Japanese)
 
 
 ### **2004-2005**  
@@ -86,13 +86,13 @@ title: short c.v.
 ## research languages
 
 **Classical and Modern Mandarin Chinese**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fluent
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fluent
 
 **Japanese**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intermediate reading and speaking
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; intermediate reading and speaking
 
 **Bengali, Cantonese, German**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intermediate reading
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; intermediate reading
 
 ## courses taught
 
@@ -110,4 +110,4 @@ title: short c.v.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theory and Methods in History  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colloquium on Modern East Asia  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Historiography of Capitalism  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; China and late 20th C. Global Political Economy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; China and 20th C. Global Political Economy
