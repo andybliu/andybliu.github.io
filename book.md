@@ -24,19 +24,19 @@ This is based upon my doctoral dissertation, completed as part of the Internatio
 
 ## some nice reviews
 **["Capitalism is not a 'Free Labor' System"](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india)**  
-*Jacobin Magazine*  
-by Yueran Zhang   
-January 10, 2021
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Jacobin Magazine*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Yueran Zhang   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;January 10, 2021
 
 **["A fascinating history of the conduct and impact of the tea trade"](https://www.economist.com/prospero/2020/07/24/a-fascinating-history-of-the-conduct-and-impact-of-the-tea-trade)**  
-*The Economist*  
-by Jeffrey Wasserstrom  
-July 24, 2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Economist*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Jeffrey Wasserstrom  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 24, 2020
 
 **["Chai Capitalism"](https://newramblerreview.com/book-reviews/history/chai-capitalism)**  
-*New Rambler Review*   
-by Kelvin Ng  
-December 10, 2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*New Rambler Review*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Kelvin Ng  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;December 10, 2020
 
 **["Storm in a Teacup"](https://thebaffler.com/latest/storm-in-a-teacup-wade)**  
 *The Baffler*  
