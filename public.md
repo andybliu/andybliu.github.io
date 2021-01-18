@@ -24,17 +24,17 @@ title: public writing
 
 > Podcast interview  
 > *[This is Hell!](https://thisishell.com/interviews/1154-andrew-liu)*  
-> April 1, 2020
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 1, 2020
 > 	
 > Spanish translation  
 > ["'Virus chino', mercado global"](https://cultura.nexos.com.mx/?p=19586)  
-> *Nexos: Cultura y la vida cotidiana*  
-> trans. Nicolás Medina Mora Pérez  
-> April 8, 2020
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Nexos: Cultura y la vida cotidiana*  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; trans. Nicolás Medina Mora Pérez  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 8, 2020
 > 	
 > Collected in  
 > *[There is No Outside: Covid-19 Dispatches (Verso)](https://www.versobooks.com/books/3620-there-is-no-outside)*  
-> ed. Jessie Kindig, Mark Krotov, and Marco Roth
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed. Jessie Kindig, Mark Krotov, and Marco Roth
 > 	
 > Linked on [*Lausan*](https://lausan.hk/2020/chinese-virus-world-market/)
 
