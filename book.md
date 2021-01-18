@@ -15,11 +15,11 @@ title: book
 
 This is based upon my doctoral dissertation, completed as part of the International and Global History program at Columbia University. 
 
-on the [Yale University Press](https://yalebooks.yale.edu/book/9780300243734/tea-war) site
+* on the [Yale University Press](https://yalebooks.yale.edu/book/9780300243734/tea-war) site
 > discount code: YAB99 for 25% off
 
-also [available on JSTOR](https://www.jstor.org/stable/j.ctvzpv6sm) for readers with institutional subscriptions  
-obligatory link to [Bookshop.org](https://bookshop.org/books/tea-war-a-history-of-capitalism-in-china-and-india/9780300243734?aid=10015)
+* also [available on JSTOR](https://www.jstor.org/stable/j.ctvzpv6sm) for readers with institutional subscriptions  
+* obligatory link to [Bookshop.org](https://bookshop.org/books/tea-war-a-history-of-capitalism-in-china-and-india/9780300243734?aid=10015)
 
 
 ## some nice reviews
