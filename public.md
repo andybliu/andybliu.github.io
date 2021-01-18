@@ -29,7 +29,7 @@ title: public writing
 > Spanish translation  
 > ["'Virus chino', mercado global"](https://cultura.nexos.com.mx/?p=19586)  
 > *Nexos: Cultura y la vida cotidiana*  
-> trans. Nicolás Medina Mora Pérez
+> trans. Nicolás Medina Mora Pérez  
 > April 8, 2020
 > 	
 > Collected in  
