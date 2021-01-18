@@ -6,7 +6,7 @@ title: public writing
 ### 2021
 
 ["Weekend Speculations on the Fascism Question"](https://goodbye.substack.com/p/weekend-speculations-on-the-fascism)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* newsletter
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* newsletter  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  January 9, 2021
 
 ### 2020
