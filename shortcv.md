@@ -104,7 +104,7 @@ Modern China I (1644-1912)
  
 Modern China II (1912-present)
 
-Modern East Asia
+Modern East Asia  
 Modern Japan
 
 Commodities and Global Capitalism
