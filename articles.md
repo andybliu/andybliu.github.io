@@ -3,8 +3,6 @@ layout: page
 title: academic writing
 ---
 
-## peer-reviewed articles
-
  **"Production, Circulation, and Accumulation: The Historiographies of Capitalism in China and South Asia"**  
  ***Journal of Asian Studies***  
  Vol. 78, no. 4, 767-788
