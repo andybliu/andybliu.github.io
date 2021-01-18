@@ -3,13 +3,12 @@ layout: page
 title: public writing
 ---
 
-### 2021
+
 
 ["Weekend Speculations on the Fascism Question"](https://goodbye.substack.com/p/weekend-speculations-on-the-fascism)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* newsletter  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  January 9, 2021
 
-### 2020
 
 ["Is Covid-19 a 'Just-in-Time' Pandemic?"](https://feralatlas.supdigital.org/poster/is-covid-19-a-just-in-time-pandemic)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Feral Atlas: the More-Than-Human Anthropocene*   
@@ -49,7 +48,7 @@ title: public writing
 > Linked on [*Lausan*](https://lausan.hk/2020/chinese-virus-world-market/)
 
 
-### 2019
+
 
 ["Does Hong Kong Even Need the NBA?: A protest movement becomes a prop in the US culture war"](https://www.motherjones.com/politics/2019/10/does-hong-kong-even-need-the-nba/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mother Jones*  
@@ -57,7 +56,7 @@ title: public writing
 
 > Linked on [*Lausan*](https://lausan.hk/2019/does-hong-kong-even-need-the-nba/) 
 
-### 2018
+
 
 ["How Asia got Crazy Rich: Towards a materialist history of Crazy Rich Asians"](https://nplusonemag.com/online-only/online-only/how-asia-got-crazy-rich/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
