@@ -27,8 +27,8 @@ title: public writing
 > April 1, 2020
 > 	
 > Spanish translation  
-> [**"'Virus chino', mercado global"**](https://cultura.nexos.com.mx/?p=19586)  
-> *Nexos: Cultura y la vida cotidiana*
+> ["'Virus chino', mercado global"](https://cultura.nexos.com.mx/?p=19586)  
+> *Nexos: Cultura y la vida cotidiana*  
 > trans. NicolÃ¡s Medina Mora PÃ©rez
 > April 8, 2020
 > 	
