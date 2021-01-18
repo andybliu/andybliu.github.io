@@ -13,4 +13,4 @@ I am also a member of the [**Critical China Scholars collective**](https://criti
 
 I am also part of a podcast called [**Time to Say Goodbye**](https://goodbye.substack.com/), with journalists Jay Caspian Kang and E. Tammy Kim. We touch on topics mostly centered on Asia and Asian America, race, politics, and pop culture.
 
-I grew up in the Seattle suburbs and spent just over a decade in New York as a student, with some breaks spent in Asia along the way. Outside of contemplating the world's problems, I spend most of my time thinking about NBA basketball. With the departure of the Supersonics (2008, RIP), though, I have become an NBA generalist. Stephen Curry is my all-time favorite player. If you agree, then we will definitely get along.
+I grew up in the Seattle suburbs and spent just over a decade in New York as a student, with some breaks spent in Asia along the way. Outside of contemplating the world's problems, I spend most of my time thinking about NBA basketball. With the departure of the Supersonics (2008, RIP), though, I have become an NBA generalist. Stephen Curry is my all-time favorite player. If you agree, then we will get along very well!
