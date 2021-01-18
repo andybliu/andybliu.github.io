@@ -6,21 +6,21 @@ title: public writing
 ### 2020
 
 [**"Is Covid-19 a 'Just-in-Time' Pandemic?"**](https://feralatlas.supdigital.org/poster/is-covid-19-a-just-in-time-pandemic)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Feral Atlas: the More-Than-Human Anthropocene***   
-ed. Anna L. Tsing, Jennifer Deger, Alder Keleman Saxena and Feifei Zhou  
-October 2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Feral Atlas: the More-Than-Human Anthropocene*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed. Anna L. Tsing, Jennifer Deger, Alder Keleman Saxena and Feifei Zhou  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2020
 
 **["Inadvertent General Strike" with Elias Rodriques](https://nplusonemag.com/online-only/online-only/inadvertent-general-strike/)**  
-***n+1 magazine***  
-August 29, 2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 29, 2020
 
 **["Blaming China for coronavirus isn't just dangerous. It misses the point."](https://www.theguardian.com/commentisfree/2020/apr/10/blaming-china-coronavirus-pandemic-capitalist-globalisation-scapegoat)**  
-***The Guardian***  
-April 10, 2020  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Guardian*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 10, 2020  
 
 [**"'Chinese Virus,' World Market"**](https://nplusonemag.com/online-only/online-only/chinese-virus-world-market/)  
-***n+1 magazine***  
-March 20, 2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 20, 2020
 
 > Podcast interview  
 > ***[This is Hell!](https://thisishell.com/interviews/1154-andrew-liu)***  
