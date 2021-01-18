@@ -2,28 +2,15 @@
 layout: page
 title: bio
 ---
+I am an assistant professor in the [department of history at Villanova University](https://www1.villanova.edu/villanova/artsci/history.html), about twenty minutes outside Philadelphia. My research interests include: modern China, south and east Asia, histories and theories of political economy and capitalism, and global and comparative history.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My book ***Tea War: A history of capitalism in China and India*** was published by [Yale University Press](https://yalebooks.yale.edu/book/9780300243734/tea-war) in 2020 as part of the Weatherhead Studies in East Asia series with Columbia University. I relied upon archival materials found in China, India, and the UK, trying to bring together the histories of the Chinese and Indian tea industries into a global and comparative study of capitalism in the "rest" of the world. I have put some more links in the book section.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Right now, I am developing a second project centered on the connections between Hong Kong and Guangdong in southern China and taking place across the 1970s and eighties. From this vantage point, I hope to rethink a series of late-twentieth century transformations occurring in China, the "miracle" economies of east Asia's "flying geese" and "four tiger" societies, and, more broadly, global political economy. The latter is often narrated as a story of the breakdown of Fordism from the standpoint of the north Atlantic ("neoliberalism"). Our grasp of the current world, I aim to show, benefits from paying greater attention to long-term processes occurring at the same moment in the Asia-Pacific as well. 
 
-There are currently two themes built on Poole:
+I am also a member of the [**Critical China Scholars collective**](https://criticalchinascholars.org/), a group of humanists and social scientists committed to advancing solidarity amidst mounting tensions between the US and China.
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I am also part of a podcast called [**Time to Say Goodbye**](https://goodbye.substack.com/), with journalists Jay Caspian Kang and E. Tammy Kim. We touch on topics mostly centered on Asia and Asian America, race, politics, and pop culture.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I grew up in the Seattle suburbs and spent just over a decade in New York as a student, with some breaks spent in Asia along the way. My sports loyalties are 1990s Seattle teams, but with the departure of the Supersonics (2008, RIP), I have become an NBA generalist. Stephen Curry is my all-time favorite player.
