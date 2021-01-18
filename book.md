@@ -3,7 +3,7 @@ layout: page
 title: book (tea war)
 ---
 
-[Link to article]({% link assets/ABL%20JOHS%202010.pdf %})
+[Link to article]({% link assets/ABL JOHS 2010.pdf %})
 
 
 # Tea War: a history of capitalism in China and India
