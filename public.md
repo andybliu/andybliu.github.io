@@ -23,19 +23,20 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 20, 2020
 
 > Podcast interview  
-> ***[This is Hell!](https://thisishell.com/interviews/1154-andrew-liu)***  
+> *[This is Hell!](https://thisishell.com/interviews/1154-andrew-liu)*  
 > April 1, 2020
 > 	
 > Spanish translation  
-> [**"'Virus chino', mercado global"**](https://cultura.nexos.com.mx/?p=19586)   
+> [**"'Virus chino', mercado global"**](https://cultura.nexos.com.mx/?p=19586)  
+> *Nexos: Cultura y la vida cotidiana*
 > trans. NicolÃ¡s Medina Mora PÃ©rez
 > April 8, 2020
 > 	
 > Collected in  
-> **[*There is No Outside: Covid-19 Dispatches (Verso)*](https://www.versobooks.com/books/3620-there-is-no-outside)**  
+> *[There is No Outside: Covid-19 Dispatches (Verso)](https://www.versobooks.com/books/3620-there-is-no-outside)*  
 > ed. Jessie Kindig, Mark Krotov, and Marco Roth
 > 	
-> Linked on [Lausan](https://lausan.hk/2020/chinese-virus-world-market/)
+> Linked on [*Lausan*](https://lausan.hk/2020/chinese-virus-world-market/)
 
 
 ### 2019
@@ -44,7 +45,7 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mother Jones*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 10, 2019
 
-> Linked on [Lausan](https://lausan.hk/2019/does-hong-kong-even-need-the-nba/) 
+> Linked on [*Lausan*](https://lausan.hk/2019/does-hong-kong-even-need-the-nba/) 
 
 ### 2018
 
