@@ -40,7 +40,7 @@ title: public writing
 
 ### 2019
 
-**[Does Hong Kong Even Need the NBA?: A protest movement becomes a prop in the US culture war](https://www.motherjones.com/politics/2019/10/does-hong-kong-even-need-the-nba/)** 
+**["Does Hong Kong Even Need the NBA?: A protest movement becomes a prop in the US culture war"](https://www.motherjones.com/politics/2019/10/does-hong-kong-even-need-the-nba/)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mother Jones*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 10, 2019
 
@@ -48,6 +48,6 @@ title: public writing
 
 ### 2018
 
-**[How Asia got Crazy Rich: Towards a materialist history of Crazy Rich Asians](https://nplusonemag.com/online-only/online-only/how-asia-got-crazy-rich/)**  
+**["How Asia got Crazy Rich: Towards a materialist history of Crazy Rich Asians"](https://nplusonemag.com/online-only/online-only/how-asia-got-crazy-rich/)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 14, 2018
