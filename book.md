@@ -18,9 +18,8 @@ This is based upon my doctoral dissertation, completed as part of the Internatio
 On the [Yale University Press](https://yalebooks.yale.edu/book/9780300243734/tea-war) site
 > discount code: YAB99 for 25% off
 
-Also [available on JSTOR](https://www.jstor.org/stable/j.ctvzpv6sm) for readers with institutional subscriptions
-
-Obligatory link to [Bookshop.org](https://bookshop.org/books/tea-war-a-history-of-capitalism-in-china-and-india/9780300243734?aid=10015)
+also [available on JSTOR](https://www.jstor.org/stable/j.ctvzpv6sm) for readers with institutional subscriptions  
+obligatory link to [Bookshop.org](https://bookshop.org/books/tea-war-a-history-of-capitalism-in-china-and-india/9780300243734?aid=10015)
 
 
 ## some nice reviews
@@ -67,12 +66,11 @@ May 23, 2020
 **[The Weatherhead East Asia Institute, Columbia University](https://weai.columbia.edu/weai-author-qa-andrew-lius-tea-war-history-capitalism-china-and-india)**  
 April 22, 2020
 
-
 **[Long US-China Institute, UC-Irvine](https://youtu.be/frhLorB1wvo)**  
 with Emily Baum  
 April 27, 2020
 
-**[**Lekh Review podcast**](https://lekhreview.com/2020/07/01/andrew-liu-tea-war/)**  
+**[Lekh Review podcast](https://lekhreview.com/2020/07/01/andrew-liu-tea-war/)**  
 with Karthik Nachiappan  
 July 1, 2020
 
