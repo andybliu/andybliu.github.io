@@ -20,12 +20,12 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 29, 2020
 
-["Darren Byler on the Uyghur people of Xinjiang, China"] (https://goodbye.substack.com/p/darren-byler-on-the-uyghur-people)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* episode
+["Darren Byler on the Uyghur people of Xinjiang, China"](https://goodbye.substack.com/p/darren-byler-on-the-uyghur-people)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* episode  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  July 17, 2020
 
-["About those 'letters to my Asian parents about anti-black racism'"](https://goodbye.substack.com/p/about-those-letters-to-my-asian-parents)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* newsletter
+["About those 'letters to my Asian parents about anti-black racism'"](https://goodbye.substack.com/p/about-those-letters-to-my-asian-parents)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* newsletter  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  June 17, 2020
 
 ["Blaming China for coronavirus isn't just dangerous. It misses the point."](https://www.theguardian.com/commentisfree/2020/apr/10/blaming-china-coronavirus-pandemic-capitalist-globalisation-scapegoat)  
