@@ -15,7 +15,7 @@ title: book
 
 This is based upon my doctoral dissertation, completed as part of the International and Global History program at Columbia University. 
 
-On the [Yale University Press](https://yalebooks.yale.edu/book/9780300243734/tea-war) site
+on the [Yale University Press](https://yalebooks.yale.edu/book/9780300243734/tea-war) site
 > discount code: YAB99 for 25% off
 
 also [available on JSTOR](https://www.jstor.org/stable/j.ctvzpv6sm) for readers with institutional subscriptions  
