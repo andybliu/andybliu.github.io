@@ -1,6 +1,6 @@
 ---
 layout: page
-title: book (tea war)
+title: book
 ---
 
 [Link to article]({% link assets/ABL%20JOHS%202010.pdf %})
