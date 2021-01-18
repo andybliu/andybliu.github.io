@@ -38,17 +38,16 @@ title: public writing
 > Linked on [Lausan](https://lausan.hk/2020/chinese-virus-world-market/)
 
 
-
 ### 2019
 
-**[Does Hong Kong Even Need the NBA?: A protest movement becomes a prop in the US culture war](https://www.motherjones.com/politics/2019/10/does-hong-kong-even-need-the-nba/)**  
-***Mother Jones***  
-October 10, 2019
+**[Does Hong Kong Even Need the NBA?: A protest movement becomes a prop in the US culture war](https://www.motherjones.com/politics/2019/10/does-hong-kong-even-need-the-nba/)** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mother Jones*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 10, 2019
 
 > Linked on [Lausan](https://lausan.hk/2019/does-hong-kong-even-need-the-nba/) 
 
 ### 2018
 
-**[How Asia got Crazy Rich: Towards a materialist history of Crazy Rich Asians](https://nplusonemag.com/online-only/online-only/how-asia-got-crazy-rich/)**  
-***n+1 magazine***  
-September 14, 2018
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[How Asia got Crazy Rich: Towards a materialist history of Crazy Rich Asians](https://nplusonemag.com/online-only/online-only/how-asia-got-crazy-rich/)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 14, 2018
