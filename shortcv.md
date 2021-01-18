@@ -13,12 +13,12 @@ title: short c.v.
 
 ### **2014**  
 **PhD, Columbia University**     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subfield: International and Global History  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adviser: [Adam M. McKeown](https://www.historians.org/publications-and-directories/perspectives-on-history/december-2017/adam-mckeown-(1965%E2%80%932017))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; subfield: International and Global History  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; adviser: [Adam M. McKeown](https://www.historians.org/publications-and-directories/perspectives-on-history/december-2017/adam-mckeown-(1965%E2%80%932017))
 
 ### **2005**  
 **BA, Columbia University**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Major: History
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; major: History
 
 ## awards and grants
 
@@ -55,14 +55,14 @@ title: short c.v.
 ### **2011-2012**  
 **International Dissertation Research Fellowship**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Social Science Research Council  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (research in India and the UK)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * research in India and the UK
 
 **Junior Dissertation Fellowship**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The American Institute of Indian Studies
 
 ### **2010-11**  
 **Fulbright-Hays Doctoral Dissertation Research Abroad Grant**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (research in China)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * research in China
 
 ### **2008-09**  
 **Freeman Fellowship Language Grant**  
