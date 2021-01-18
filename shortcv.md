@@ -3,13 +3,13 @@ layout: page
 title: short c.v.
 ---
 
-## Appointments
+## appointments
 
 **2014 - present**  
 Assistant Professor  
 Department of History, Villanova University
 
-## Education
+## education
 
 ### **2014**  
 **PhD, Columbia University**     
@@ -20,7 +20,7 @@ Adviser: [Adam M. McKeown](https://www.historians.org/publications-and-directori
 **BA, Columbia University**   
 Major: History
 
-## Awards and Grants
+## awards and grants
 
 ### **2019**  
 **Transregional Research Junior Scholar Fellowship**  
@@ -43,7 +43,6 @@ American Council of Learned Societies (ACLS) Program in China Studies
 ### **2015-2016**  
 **Collaborative Reading-Workshop Grant**  
 Luce/ACLS Program in China Studies
-
 
 ### 2015 
 **Faculty Development Grant**  
@@ -85,7 +84,7 @@ Cross-Examination Debate Association (CEDA)
 Columbia College, Columbia University.  
 
 
-## Research Languages
+## research languages
 
 **Classical and Modern Mandarin Chinese**  
 Fluent
@@ -96,9 +95,9 @@ Intermediate reading and speaking
 **Bengali, Cantonese, German**  
 Intermediate reading
 
-## Courses Taught
+## courses Taught
 
-### Undergraduate
+### undergraduate
 
 Modern China I (1644-1912)  
 Modern China II (1912-present)  
@@ -107,7 +106,7 @@ Modern Japan
 Commodities and Global Capitalism
 
 
-### Masters
+### masters level
 
 Theory and Methods in History  
 Colloquium on Modern East Asia  
