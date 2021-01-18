@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: bio
 ---
 
 <p class="message">
