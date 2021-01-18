@@ -100,22 +100,16 @@ Intermediate reading
 
 ### Undergraduate
 
-Modern China I (1644-1912) 
- 
-Modern China II (1912-present)
-
+Modern China I (1644-1912)  
+Modern China II (1912-present)  
 Modern East Asia  
-Modern Japan
-
+Modern Japan  
 Commodities and Global Capitalism
 
 
 ### Masters
 
-Theory and Methods in History 
-
-Colloquium on Modern East Asia
-
-Historiography of Capitalism
-
+Theory and Methods in History  
+Colloquium on Modern East Asia  
+Historiography of Capitalism  
 China and late 20th C. Global Political Economy
