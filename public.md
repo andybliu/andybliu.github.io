@@ -45,7 +45,7 @@ title: public writing
 > *[There is No Outside: Covid-19 Dispatches (Verso)](https://www.versobooks.com/books/3620-there-is-no-outside)*  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed. Jessie Kindig, Mark Krotov, and Marco Roth
 > 	
-> Linked on [*Lausan*](https://lausan.hk/2020/chinese-virus-world-market/)
+> Linked at [*Lausan*](https://lausan.hk/2020/chinese-virus-world-market/)
 
 
 
@@ -54,7 +54,7 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mother Jones*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 10, 2019
 
-> Linked on [*Lausan*](https://lausan.hk/2019/does-hong-kong-even-need-the-nba/) 
+> Linked at [*Lausan*](https://lausan.hk/2019/does-hong-kong-even-need-the-nba/) 
 
 
 
