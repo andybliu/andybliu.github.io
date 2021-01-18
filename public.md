@@ -14,7 +14,7 @@ October 2020
 ***n+1 magazine***  
 August 29, 2020
 
-**["Blaming China for coronavirus isnât just dangerous. It misses the point."](https://www.theguardian.com/commentisfree/2020/apr/10/blaming-china-coronavirus-pandemic-capitalist-globalisation-scapegoat)**  
+**["Blaming China for coronavirus isn't just dangerous. It misses the point."](https://www.theguardian.com/commentisfree/2020/apr/10/blaming-china-coronavirus-pandemic-capitalist-globalisation-scapegoat)**  
 ***The Guardian***  
 April 10, 2020  
 
@@ -35,7 +35,7 @@ March 20, 2020
 > **[*There is No Outside: Covid-19 Dispatches (Verso)*](https://www.versobooks.com/books/3620-there-is-no-outside)**  
 > ed. Jessie Kindig, Mark Krotov, and Marco Roth
 > 	
-> Linked on [Lausan site](https://lausan.hk/2020/chinese-virus-world-market/)
+> Linked on [Lausan](https://lausan.hk/2020/chinese-virus-world-market/)
 
 
 
@@ -45,7 +45,7 @@ March 20, 2020
 ***Mother Jones***  
 October 10, 2019
 
-> Linked on [Lausan site](https://lausan.hk/2019/does-hong-kong-even-need-the-nba/) 
+> Linked on [Lausan](https://lausan.hk/2019/does-hong-kong-even-need-the-nba/) 
 
 ### 2018
 
