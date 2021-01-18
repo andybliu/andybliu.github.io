@@ -95,9 +95,9 @@ Intermediate reading and speaking
 **Bengali, Cantonese, German**  
 Intermediate reading
 
-## courses Taught
+## courses taught
 
-### undergraduate
+### undergraduate level
 
 Modern China I (1644-1912)  
 Modern China II (1912-present)  
