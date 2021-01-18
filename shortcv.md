@@ -5,7 +5,7 @@ title: short c.v.
 
 ## appointments
 
-###**2014 - present**  
+### 2014 - present  
 **Assistant Professor**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of History, Villanova University
 
