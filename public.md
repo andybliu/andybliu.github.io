@@ -6,7 +6,7 @@ title: public writing
 ### 2020
 
 [**"Is Covid-19 a 'Just-in-Time' Pandemic?"**](https://feralatlas.supdigital.org/poster/is-covid-19-a-just-in-time-pandemic)  
-***Feral Atlas: the More-Than-Human Anthropocene***   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Feral Atlas: the More-Than-Human Anthropocene***   
 ed. Anna L. Tsing, Jennifer Deger, Alder Keleman Saxena and Feifei Zhou  
 October 2020
 
