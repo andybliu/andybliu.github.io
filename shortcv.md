@@ -23,8 +23,8 @@ title: short c.v.
 ## awards and grants
 
 ### **2019**  
-**Transregional Research Junior Scholar Fellowship**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; InterAsia Program short-term residency grant  
+**Short-term Residency Grant**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; InterAsia Program    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social Science Research Council 
 
 **Visiting scholar**  
