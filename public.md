@@ -21,7 +21,7 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 29, 2020
 
 ["Darren Byler on the Uyghur people of Xinjiang, China"](https://goodbye.substack.com/p/darren-byler-on-the-uyghur-people)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* episode  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* podcast episode  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  with Darren Byler and E. Tammy Kim  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  July 17, 2020
 
