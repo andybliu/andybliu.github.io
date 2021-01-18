@@ -55,23 +55,23 @@ title: short c.v.
 ### **2011-2012**  
 **International Dissertation Research Fellowship**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Social Science Research Council  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * research in India and the UK
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *research in India and the UK*
 
 **Junior Dissertation Fellowship**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The American Institute of Indian Studies
 
 ### **2010-11**  
 **Fulbright-Hays Doctoral Dissertation Research Abroad Grant**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * research in China
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *research in China*
 
 ### **2008-09**  
 **Freeman Fellowship Language Grant**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blakemore Foundation  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (language study at the International Chinese Language Program (ICLP), National Taiwan University)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *language study at the International Chinese Language Program (ICLP), National Taiwan University*
 
 ### **2006-2008**  
 **Foreign Language and Area Studies Fellowship**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (language study for Bengali, Chinese, and Japanese)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *language study for Bengali, Chinese, and Japanese*
 
 
 ### **2004-2005**  
