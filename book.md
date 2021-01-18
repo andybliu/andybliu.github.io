@@ -24,33 +24,33 @@ This is based upon my doctoral dissertation, completed as part of the Internatio
 
 ## some nice reviews
 **["Capitalism is not a 'Free Labor' System"](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india)**  
-***Jacobin Magazine***  
+*Jacobin Magazine*  
 by Yueran Zhang   
 January 10, 2021
 
 **["A fascinating history of the conduct and impact of the tea trade"](https://www.economist.com/prospero/2020/07/24/a-fascinating-history-of-the-conduct-and-impact-of-the-tea-trade)**  
-***The Economist***  
+*The Economist*  
 by Jeffrey Wasserstrom  
 July 24, 2020
 
 **["Chai Capitalism"](https://newramblerreview.com/book-reviews/history/chai-capitalism)**  
-***New Rambler Review***   
+*New Rambler Review*   
 by Kelvin Ng  
 December 10, 2020
 
 **["Storm in a Teacup"](https://thebaffler.com/latest/storm-in-a-teacup-wade)**  
-***The Baffler***  
+*The Baffler*  
 by Francis Wade  
 July 16, 2020
 
 ## short features by me
 
 [**"Tea and capitalism: The China tea trade was a paradox -- a global, intensified industry without the usual spectacle of factories and technology"**](https://aeon.co/essays/the-china-tea-trade-was-a-paradox-of-global-capitalism)  
-***Aeon Magazine***  
+*Aeon Magazine*  
 May 19, 2020
 
 **["Notes Toward a More Global History of Capitalism: reading Marx's *Capital* in India and China"](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/)**  
-***Spectre***   
+*Spectre*   
 July 6, 2020
 
 ## interviews
@@ -87,15 +87,15 @@ January 11, 2021
 
 
 **["Diversify and Decolonise your Economics Reading List: Fall 2020"](https://d-econ.org/diversify-and-decolonise-your-economics-reading-list-fall-2020/)**  
-***D-Econ blog***  
+*D-Econ blog*  
 September 19, 2020
 
 **["2020 China Books: China and the World"](https://chinachannel.org/2020/06/07/2020-books-1/)**    
-***China Channel, Los Angeles Review of Books***  
+*China Channel, Los Angeles Review of Books*  
 June 7, 2020
 
 
 **["Making Sense of the Multipolar World"](https://www.thewirechina.com/2020/05/10/making-sense-of-the-multipolar-world/)**  
-***The Wire China***  
+*The Wire China*  
 May 10, 2020
 
