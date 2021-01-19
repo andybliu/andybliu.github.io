@@ -6,6 +6,10 @@ title: book
 
 # Tea War: a history of capitalism in China and India
 
+<p align="right">
+  <img src="/assets/Liu cover DESIGN.jpg">
+</p>
+
 
 This book came out in spring 2020. The official description:
 
