@@ -16,7 +16,7 @@ And I am part of a podcast called [**Time to Say Goodbye**](https://goodbye.subs
 I grew up in the Seattle suburbs and spent just over a decade in New York as a student, with time in Asia mixed in. Outside of contemplating the world's problems, I spend most of my time thinking about eating my next bowl of Asian noodles (spicy, wide, dry) (below) and NBA basketball. Without the Supersonics (2008, RIP), I have become an NBA generalist. Stephen Curry is my all-time favorite player. If you agree, then we will get along very well! If you disagree, then you are part of the problem.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**email address: aliu01 at villanova.edu**
-
+<br><br><br>
 
 
 
