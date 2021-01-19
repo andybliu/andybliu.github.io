@@ -23,62 +23,62 @@ This is based upon my doctoral dissertation, completed as part of the Internatio
 
 
 ## some nice reviews
-**["Capitalism is not a 'Free Labor' System"](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india)**  
+["Capitalism is not a 'Free Labor' System"](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Jacobin Magazine*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Yueran Zhang   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;January 10, 2021
 
-**["A fascinating history of the conduct and impact of the tea trade"](https://www.economist.com/prospero/2020/07/24/a-fascinating-history-of-the-conduct-and-impact-of-the-tea-trade)**  
+["A fascinating history of the conduct and impact of the tea trade"](https://www.economist.com/prospero/2020/07/24/a-fascinating-history-of-the-conduct-and-impact-of-the-tea-trade)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Economist*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Jeffrey Wasserstrom  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 24, 2020
 
-**["Chai Capitalism"](https://newramblerreview.com/book-reviews/history/chai-capitalism)**  
+["Chai Capitalism"](https://newramblerreview.com/book-reviews/history/chai-capitalism)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*New Rambler Review*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Kelvin Ng  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;December 10, 2020
 
-**["Storm in a Teacup"](https://thebaffler.com/latest/storm-in-a-teacup-wade)**  
+["Storm in a Teacup"](https://thebaffler.com/latest/storm-in-a-teacup-wade)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Baffler*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Francis Wade  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 16, 2020
 
 ## short features by me
 
-[**"Tea and capitalism: The China tea trade was a paradox -- a global, intensified industry without the usual spectacle of factories and technology"**](https://aeon.co/essays/the-china-tea-trade-was-a-paradox-of-global-capitalism)  
+["Tea and capitalism: The China tea trade was a paradox -- a global, intensified industry without the usual spectacle of factories and technology"](https://aeon.co/essays/the-china-tea-trade-was-a-paradox-of-global-capitalism)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Aeon Magazine*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 19, 2020
 
-**["Notes Toward a More Global History of Capitalism: reading Marx's *Capital* in India and China"](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/)**  
+["Notes Toward a More Global History of Capitalism: reading Marx's *Capital* in India and China"](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Spectre*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 6, 2020
 
 ## interviews
 
-**[The New Books Network](https://newbooksnetwork.com/andrew-liu-tea-war-a-history-of-capitalism-in-china-and-india-yale-up-2020)**  
+[The New Books Network](https://newbooksnetwork.com/andrew-liu-tea-war-a-history-of-capitalism-in-china-and-india-yale-up-2020)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Lukas Rieppel  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;November 4, 2020
 
-**[The India China Institute, the New School](https://www.indiachinainstitute.org/2020/05/23/andrew-b-liu-tea-war-a-history-of-capitalism-in-china-and-india/)**  
+[The India China Institute, the New School](https://www.indiachinainstitute.org/2020/05/23/andrew-b-liu-tea-war-a-history-of-capitalism-in-china-and-india/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Mark Frazier  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 23, 2020
 
-**[The Weatherhead East Asia Institute, Columbia University](https://weai.columbia.edu/weai-author-qa-andrew-lius-tea-war-history-capitalism-china-and-india)**  
+[The Weatherhead East Asia Institute, Columbia University](https://weai.columbia.edu/weai-author-qa-andrew-lius-tea-war-history-capitalism-china-and-india)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;April 22, 2020
 
-**[Long US-China Institute, UC-Irvine](https://youtu.be/frhLorB1wvo)**  
+[Long US-China Institute, UC-Irvine](https://youtu.be/frhLorB1wvo)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Emily Baum  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;April 27, 2020
 
-**[Lekh Review podcast](https://lekhreview.com/2020/07/01/andrew-liu-tea-war/)**  
+[Lekh Review podcast](https://lekhreview.com/2020/07/01/andrew-liu-tea-war/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Karthik Nachiappan  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 1, 2020
 
-**[Brown History podcast](https://www.brownhistorypodcast.com/episodes/ep-06-tea-and-capitalism-with-andrew-b-liu)**  
+[Brown History podcast](https://www.brownhistorypodcast.com/episodes/ep-06-tea-and-capitalism-with-andrew-b-liu)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Ahsun Zafar  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 26, 2020
 
-**[Counterpoint with Amanda Vanstone](https://www.abc.net.au/radionational/programs/counterpoint/11-01-20/12992992)**  
+[Counterpoint with Amanda Vanstone](https://www.abc.net.au/radionational/programs/counterpoint/11-01-20/12992992)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Australian Broadcasting Corporation  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;January 11, 2021
   
@@ -86,16 +86,16 @@ This is based upon my doctoral dissertation, completed as part of the Internatio
 ## mentions and lists
 
 
-**["Diversify and Decolonise your Economics Reading List: Fall 2020"](https://d-econ.org/diversify-and-decolonise-your-economics-reading-list-fall-2020/)**  
+["Diversify and Decolonise your Economics Reading List: Fall 2020"](https://d-econ.org/diversify-and-decolonise-your-economics-reading-list-fall-2020/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*D-Econ blog*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 19, 2020
 
-**["2020 China Books: China and the World"](https://chinachannel.org/2020/06/07/2020-books-1/)**    
+["2020 China Books: China and the World"](https://chinachannel.org/2020/06/07/2020-books-1/)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*China Channel, Los Angeles Review of Books*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June 7, 2020
 
 
-**["Making Sense of the Multipolar World"](https://www.thewirechina.com/2020/05/10/making-sense-of-the-multipolar-world/)**  
+["Making Sense of the Multipolar World"](https://www.thewirechina.com/2020/05/10/making-sense-of-the-multipolar-world/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Wire China*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 10, 2020
 
