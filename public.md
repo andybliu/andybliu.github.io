@@ -9,12 +9,6 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* newsletter  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  January 9, 2021
 
-
-["Is Covid-19 a 'Just-in-Time' Pandemic?"](https://feralatlas.supdigital.org/poster/is-covid-19-a-just-in-time-pandemic)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Feral Atlas: the More-Than-Human Anthropocene*   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed. Anna L. Tsing, Jennifer Deger, Alder Keleman Saxena and Feifei Zhou  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2020
-
 ["Inadvertent General Strike" with Elias Rodriques](https://nplusonemag.com/online-only/online-only/inadvertent-general-strike/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 29, 2020
