@@ -29,7 +29,7 @@ If any of this sounds interesting, check out [the introduction here]({% link ass
 
 Or read some of the reviews below; I liked Yueran Zhang’s ([the one in Jacobin](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india)). 
 <br>
-## ways to get it:
+## ways to get it
 
 * on the [Yale University Press](https://yalebooks.yale.edu/book/9780300243734/tea-war) site
 > discount code: YAB99 for 25% off
