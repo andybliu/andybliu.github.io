@@ -20,5 +20,5 @@ I grew up in the Seattle suburbs and spent just over a decade in New York as a s
 ![circles](/assets/bw noodles.png)
 
 <p align="center">
-  <img width="460" height="300" src="/assets/bw noodles.png">
+  <img width="300" height="300" src="/assets/bw noodles.png">
 </p>
