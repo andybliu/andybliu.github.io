@@ -3,6 +3,8 @@ layout: page
 title: short c.v.
 ---
 
+
+
 ## appointments
 
 ### 2014 - present  
@@ -86,13 +88,13 @@ John Jay Scholar
 ## research languages
 
 Classical and Modern Mandarin Chinese  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *fluent*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fluent
 
 Japanese  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *intermediate reading and speaking*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; intermediate reading and speaking
 
 Bengali, Cantonese, German  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *intermediate reading*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; intermediate reading
 
 ## courses taught
 
