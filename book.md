@@ -28,9 +28,8 @@ There’s also, of course, a lot about tea, probably more than I probably ever n
 If any of this sounds interesting, check out [the introduction here]({% link assets/[Tea War] Introduction.pdf %}). 
 
 Or read some of the reviews below; I liked Yueran Zhang’s ([the one in Jacobin](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india)). 
-
-Ways to get it:
-
+<br>
+## ways to get it:
 
 * on the [Yale University Press](https://yalebooks.yale.edu/book/9780300243734/tea-war) site
 > discount code: YAB99 for 25% off
