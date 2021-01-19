@@ -15,7 +15,7 @@ What I was trying to figure out with this book was: how to write a history of ca
 
 The book itself is the product of multi-sited, comparative research, using archival materials from China, India, the UK, and Taiwan, written in Chinese, Bengali, and Japanese (and, uh, English). 
 
-My conceptualization drew upon a rereading of political economy and in particular Karl Marx’s mature critique of political economy (see my explanation [in Spectre if you're curious to read more](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/)). 
+My conceptualization drew upon a rereading of political economy and in particular Karl Marx’s mature critique of political economy (see my explanation [in *Spectre* if you're curious](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/)). 
 
 I tried to underscore how the history of modern accumulation beyond the English experience has *often* relied upon and appropriated so-called traditional elements, such as old technologies (natural materials, manual labor) and class arrangements (slavery, serfdom, peasantry etc), all the while bound up with competitive pressures to raise the productivity of human labor. 
 
