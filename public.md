@@ -52,6 +52,6 @@ title: public writing
 
 
 
-["How Asia got Crazy Rich: Towards a materialist history of Crazy Rich Asians"](https://nplusonemag.com/online-only/online-only/how-asia-got-crazy-rich/)  
+["How Asia got Crazy Rich: Towards a materialist history of *Crazy Rich Asians*"](https://nplusonemag.com/online-only/online-only/how-asia-got-crazy-rich/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 14, 2018
