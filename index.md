@@ -3,9 +3,7 @@ layout: page
 title: bio
 ---
 
-<body class="theme-base-08">
-
-[CV]({% link shortcv.md %})
+[link]({% link shortcv.md %})
 
 I am an assistant professor in the [department of history at Villanova University](https://www1.villanova.edu/villanova/artsci/history.html), about twenty minutes outside Philadelphia. My research interests include: modern China, south and east Asia, histories and theories of political economy and capitalism, and global and comparative history.
 
@@ -21,4 +19,3 @@ I grew up in the Seattle suburbs and spent just over a decade in New York as a s
 
 **email address: aliu01 at villanova.edu**
 
-</body>
