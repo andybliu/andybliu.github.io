@@ -7,7 +7,9 @@ title: book
 # Tea War: a history of capitalism in China and India
 
 <p align="right">
-  <img  <img width="209" src="/assets/Liu cover DESIGN.jpg">
+  
+  <img align="right" width="200" src="/assets/Liu cover DESIGN.jpg">
+
 </p>
 
 
