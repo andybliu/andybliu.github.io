@@ -7,8 +7,8 @@ title: book
 # Tea War: a history of capitalism in China and India
 
 <p align="right">
-  
-  <img align="right" width="200" src="/assets/Liu cover DESIGN.jpg">
+  <a href="https://yalebooks.yale.edu/book/9780300243734/tea-war">
+    <img align="right" width="200" src="/assets/Liu cover DESIGN.jpg"></a>
 
 </p>
 
