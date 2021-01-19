@@ -3,7 +3,7 @@ layout: page
 title: bio
 ---
 
-I am an assistant professor in the [department of history at Villanova University](https://www1.villanova.edu/villanova/artsci/history.html), about twenty minutes outside Philadelphia. My research interests include: modern China, south and east Asia, histories and theories of political economy and capitalism, and global and comparative history.
+I am an assistant professor in the [department of history at Villanova University](https://www1.villanova.edu/villanova/artsci/history.html), about thirty minutes outside Philadelphia. My research interests include: modern China, south and east Asia, histories and theories of political economy and capitalism, and global and comparative history.
 
 My book [*Tea War: A history of capitalism in China and India*]({% link book.md %}) was published by [Yale University Press](https://yalebooks.yale.edu/book/9780300243734/tea-war) in 2020 as part of the Weatherhead Studies in East Asia series with Columbia University. I relied upon archival materials found in China, India, and the UK, trying to bring together the histories of the Chinese and Indian tea industries into a global and comparative study of capitalism in the "rest" of the world. More links in the book section.
 
