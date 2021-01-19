@@ -67,7 +67,7 @@ Fulbright-Hays Doctoral Dissertation Research Abroad Grant
 ### **2008-09**  
 Freeman Fellowship Language Grant  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blakemore Foundation  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *language study at the International Chinese Language Program (ICLP), National Taiwan University*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *language study at the International Chinese Language Program, Taiwan*
 
 ### **2006-2008**  
 Foreign Language and Area Studies Fellowship  
@@ -86,13 +86,13 @@ John Jay Scholar
 ## research languages
 
 Classical and Modern Mandarin Chinese  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fluent
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *fluent*
 
 Japanese  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; intermediate reading and speaking
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *intermediate reading and speaking*
 
 Bengali, Cantonese, German  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; intermediate reading
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *intermediate reading*
 
 ## courses taught
 
