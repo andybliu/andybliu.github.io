@@ -3,14 +3,14 @@ layout: no_title
 title: book
 ---
 
-
-# Tea War: a history of capitalism in China and India
-
 <p align="right">
   <a href="https://yalebooks.yale.edu/book/9780300243734/tea-war">
     <img align="right" width="200" src="/assets/Liu cover DESIGN.jpg"></a>
 
 </p>
+
+# Tea War: a history of capitalism in China and India
+
 
 
 My book was published in spring 2020. The official description:
