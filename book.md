@@ -17,17 +17,17 @@ My book was published in spring 2020. The official description:
 >Characterizations of China and India as premodern backwaters, he explains, were themselves the historical result of new notions of political economy adopted by Chinese and Indian nationalists, who discovered that these abstract ideas corresponded to concrete social changes in their local surroundings.   
 >Together, these stories point toward a more flexible and globally oriented conceptualization of the history of capitalism in China and India.
 
-I envisioned this book as an intervention into debates over the history of capitalism — both old and new yet almost always centered on the north Atlantic — and also into debates over the economic comparability of Europe and Asia, aka, “the great divergence” debates. I have a longer essay expanding upon this literature, published in [the *Journal of Asian Studies* (2019), found here]({% link assets/ABL JAS 2019.pdf %}). 
+I envisioned this book as an intervention into debates over the history of capitalism — both old and new yet almost always centered on the north Atlantic — and also into debates over the economic comparability of Europe and Asia, aka, “the great divergence” debates. I have a longer essay expanding upon this literature, published in [the *Journal of Asian Studies* (2019)]({% link assets/ABL JAS 2019.pdf %}). 
 
 The book itself is the product of multi-sited, comparative research, using archival materials from China, India, the UK, and Taiwan, written in Chinese, Bengali, and Japanese (and, uh, English). 
 
-My conceptualization of the argument also drew upon an ongoing effort to reimagine the historical dynamics of capitalism, in particular, a rereading of Karl Marx’s mature critique of political economy for the contemporary world. On this, [see my piece in *Spectre*, if you're into that sort of thing](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/)! 
+My conceptualization of the argument also drew upon an ongoing effort to reimagine the historical dynamics of capitalism, in particular, a rereading of Karl Marx’s mature critique of political economy for the contemporary world. On this, [see my piece in *Spectre*](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/), if you're into that sort of thing! 
 
-There’s also, of course, a lot about tea, probably more than I ever needed to know. There are some funny anecdotes of British officials saying racist things, some Bengali plays and fiction, Qing officials trying to explain Adam Smith (without being able to read English), and some interesting discoveries about incense sticks and Chinese labor.
+There’s also, of course, a lot about tea, probably more than I ever needed to know. There are some funny anecdotes about British officials saying racist things, some Bengali plays and fiction, Qing officials trying to explain Adam Smith (without being able to read English), and some interesting discoveries about incense sticks and Chinese labor.
 
 If any of this sounds interesting, you can check out [the introduction here]({% link assets/[Tea War] Introduction.pdf %}). 
 
-I also liked [Yueran Zhang’s review below](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india). 
+I also liked [Yueran Zhang’s review](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india) below. 
 <br><br>
 ## ways to get it
 
