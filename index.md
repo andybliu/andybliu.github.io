@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: no_title
 title: bio
 ---
+
+# bio
 
 I am an assistant professor in the [department of history at Villanova University](https://www1.villanova.edu/villanova/artsci/history.html), about thirty minutes outside Philadelphia. My research interests include: modern China, south and east Asia, histories and theories of political economy and capitalism, and global and comparative history.
 
