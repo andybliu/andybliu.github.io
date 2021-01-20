@@ -39,7 +39,7 @@ Transregional Research Junior Scholar Fellowship
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social Science Research Council 
 
 Postdoctoral Fellowship  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Henry Luce Foundation/American Council of Learned Societies (ACLS) Program in China Studies 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Luce/ACLS Program in China Studies 
 
 ### **2015-2016**  
 Collaborative Reading-Workshop Grant  
@@ -82,7 +82,7 @@ National Debater of the Year
 
 ### **2001-2005**  
 John Jay Scholar  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Columbia College, Columbia University.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Columbia College, Columbia University  
 
 
 ## research languages
