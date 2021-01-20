@@ -13,7 +13,7 @@ title: book
 My book was published in spring 2020. The official description:
 
 > Tea remains the world’s most popular commercial drink today, and at the turn of the twentieth century, it represented the largest export industry of both China and colonial India. In analyzing the global competition between Chinese and Indian tea, Andrew B. Liu challenges past economic histories premised on the technical “divergence” between the West and the Rest, arguing instead that seemingly traditional technologies and practices were central to modern capital accumulation across Asia.   
->He shows how competitive pressures compelled Chinese merchants to adopt abstract industrial conceptions of time, while colonial planters in India pushed for labor indenture laws to support factory-style tea plantations.   
+>He shows how competitive pressures compelled Chinese merchants to adopt abstract industrial conceptions of time, while colonial planters in India pushed for labor indenture laws to support factory-style tea plantations. 
 >Characterizations of China and India as premodern backwaters, he explains, were themselves the historical result of new notions of political economy adopted by Chinese and Indian nationalists, who discovered that these abstract ideas corresponded to concrete social changes in their local surroundings. 
 >Together, these stories point toward a more flexible and globally oriented conceptualization of the history of capitalism in China and India.
 
