@@ -21,7 +21,7 @@ I envisioned this book as an intervention into debates over the history of capit
 
 The book itself is the product of multi-sited, comparative research, using archival materials from China, India, the UK, and Taiwan, written in Chinese, Bengali, and Japanese (and, uh, English). 
 
-My conceptualization of the argument also drew upon an ongoing effort to reimagine the historical dynamics of capitalism, in particular, a rereading of Karl Marx’s mature critique of political economy for the contemporary world. On this, [see my piece in *Spectre*, if you're curious](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/). 
+My conceptualization of the argument also drew upon an ongoing effort to reimagine the historical dynamics of capitalism, in particular, a rereading of Karl Marx’s mature critique of political economy for the contemporary world. On this, [see my piece in *Spectre*, if you're into that sort of thing](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/)! 
 
 There’s also, of course, a lot about tea, probably more than I ever needed to know. There are some funny anecdotes of British officials saying racist things, some Bengali plays and fiction, Qing officials trying to explain Adam Smith (without being able to read English), and some interesting discoveries about incense sticks and Chinese labor.
 
