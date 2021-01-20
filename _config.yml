@@ -34,7 +34,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: Andy  Liu
-  url: https://andybliu.github.io/history
+  url: https://andybliu.github.io/
   email: ""
 
 # Custom vars
