@@ -17,7 +17,7 @@ My book was published in spring 2020. The official description:
 >Characterizations of China and India as premodern backwaters, he explains, were themselves the historical result of new notions of political economy adopted by Chinese and Indian nationalists, who discovered that these abstract ideas corresponded to concrete social changes in their local surroundings.   
 >Together, these stories point toward a more flexible and globally oriented conceptualization of the history of capitalism in China and India.
 
-I envisioned this book as an intervention into debates over the history of capitalism — both old and new yet almost always centered on the north Atlantic — and also into debates over the economic comparability of Europe and Asia, aka, “the great divergence” debates. I have a longer essay expanding upon this literature, published in [the *Journal of Asian Studies* (2019)]({% link assets/ABL JAS 2019.pdf %}). 
+I envisioned this book as an intervention into debates over the history of capitalism — both old and new yet almost always centered on the north Atlantic — and also into debates over the economic comparability of Europe and Asia, aka, “the great divergence” debates. For more on this, I have a longer essay expanding upon this literature published in [the *Journal of Asian Studies* (2019)]({% link assets/ABL JAS 2019.pdf %}). 
 
 The book itself is the product of multi-sited, comparative research, using archival materials from China, India, the UK, and Taiwan, written in Chinese, Bengali, and Japanese (and, uh, English). 
 
