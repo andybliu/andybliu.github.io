@@ -8,7 +8,7 @@ title: book
 
 <p align="right">
   <a href="https://yalebooks.yale.edu/book/9780300243734/tea-war">
-    <img align="right" width="175" src="/assets/Liu cover DESIGN.jpg"></a></p>
+    <img align="right" width="175" src="/assets/Liu cover DESIGN.png"></a></p>
 
 My book was published in spring 2020. The official description:
 
