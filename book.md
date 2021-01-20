@@ -3,9 +3,6 @@ layout: no_title
 title: book
 ---
 
-
-</p>
-
 # Tea War: a history of capitalism in China and India
 
 
