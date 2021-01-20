@@ -23,7 +23,7 @@ The book itself is the product of multi-sited, comparative research, using archi
 
 My conceptualization of the argument also drew upon a rethinking of the historical dynamics of capitalism, in particular, a rereading of Karl Marx’s mature critique of political economy. On this, see my piece [in *Spectre*, if you're curious](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/). 
 
-There’s also, of course, a lot about tea, probably more than I ever needed to know. There are some funny anecdotes of British officials saying racist things, some Bengali plays and fiction, Qing scholars trying to read Adam Smith without knowing English, and some interesting discoveries about incense sticks and Chinese labor.
+There’s also, of course, a lot about tea, probably more than I ever needed to know. There are some funny anecdotes of British officials saying racist things, some Bengali plays and fiction, Qing officials trying to explain Adam Smith (without being able to read English), and some interesting discoveries about incense sticks and Chinese labor.
 
 If any of this sounds interesting, you can check out [the introduction here]({% link assets/[Tea War] Introduction.pdf %}). 
 
