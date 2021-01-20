@@ -12,23 +12,22 @@ title: book
 
 My book was published in spring 2020. The official description:
 
-> Tea remains the world’s most popular commercial drink today, and at the turn of the twentieth century, it represented the largest export industry of both China and colonial India. In analyzing the global competition between Chinese and Indian tea, Andrew B. Liu challenges past economic histories premised on the technical “divergence” between the West and the Rest, arguing instead that seemingly traditional technologies and practices were central to modern capital accumulation across Asia. He shows how competitive pressures compelled Chinese merchants to adopt abstract industrial conceptions of time, while colonial planters in India pushed for labor indenture laws to support factory-style tea plantations. Characterizations of China and India as premodern backwaters, he explains, were themselves the historical result of new notions of political economy adopted by Chinese and Indian nationalists, who discovered that these abstract ideas corresponded to concrete social changes in their local surroundings. Together, these stories point toward a more flexible and globally oriented conceptualization of the history of capitalism in China and India.
+> Tea remains the world’s most popular commercial drink today, and at the turn of the twentieth century, it represented the largest export industry of both China and colonial India. In analyzing the global competition between Chinese and Indian tea, Andrew B. Liu challenges past economic histories premised on the technical “divergence” between the West and the Rest, arguing instead that seemingly traditional technologies and practices were central to modern capital accumulation across Asia. 
+>He shows how competitive pressures compelled Chinese merchants to adopt abstract industrial conceptions of time, while colonial planters in India pushed for labor indenture laws to support factory-style tea plantations. 
+>Characterizations of China and India as premodern backwaters, he explains, were themselves the historical result of new notions of political economy adopted by Chinese and Indian nationalists, who discovered that these abstract ideas corresponded to concrete social changes in their local surroundings. 
+>Together, these stories point toward a more flexible and globally oriented conceptualization of the history of capitalism in China and India.
 
-I envisioned this book as an intervention into debates over the history of capitalism — both old and new yet almost always Eurocentric — and also into debates over the economic comparability of Europe and Asia, aka, “the great divergence” debates. I wrote about this more in my essay published with [the *Journal of Asian Studies* (2019)]({% link assets/ABL JAS 2019.pdf %}). 
+I envisioned this book as an intervention into debates over the history of capitalism — both old and new yet almost always Eurocentric — and also into debates over the economic comparability of Europe and Asia, aka, “the great divergence” debates. I have a longer essay expanding upon this literature, published in [the *Journal of Asian Studies* (2019)]({% link assets/ABL JAS 2019.pdf %}). 
 
 The book itself is the product of multi-sited, comparative research, using archival materials from China, India, the UK, and Taiwan, written in Chinese, Bengali, and Japanese (and, uh, English). 
 
-My conceptualization of the argument also drew upon a rereading of political economy and in particular Karl Marx’s mature critique of political economy. On this, see my piece [in *Spectre* if you're curious](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/). 
+My conceptualization of the argument also drew upon a rereading of political economy and in particular Karl Marx’s mature critique of political economy. On this, see my piece [in *Spectre*, if you're curious](https://spectrejournal.com/notes-toward-a-more-global-history-of-capitalism/). 
 
-I tried to underscore how the history of modern accumulation beyond the English experience has *often* relied upon and appropriated so-called traditional elements, such as old technologies (natural materials, manual labor) and class arrangements (slavery, serfdom, peasantry etc), all the while bound up with competitive pressures to raise the productivity of human labor. 
-
-So the book’s basic premise is a social history of agrarian labor in the export tea districts of Anhui and Fujian, China, and Assam, India. But it is also an exercise in self-reflexive intellectual history, namely, a history of political economic ideas outside the north Atlantic. How did writers in China and colonial India come to understand the forces of global competition, as they grappled with many of the same categories found in British political economy ("value," "labor," etc) but translated into Asian languages and contexts? How could this be grounded in the material circumstances of colonial accumulation and semi-proletarianized and unfree labor?
-
-There’s also, of course, a lot about tea, probably more than I probably ever needed to know. There are some funny anecdotes of British officials saying racist things, some Bengali plays and short stories, Qing scholars trying to read Adam Smith without knowing English, and some interesting discoveries about incense sticks and Chinese labor.
+There’s also, of course, a lot about tea, probably more than I ever needed to know. There are some funny anecdotes of British officials saying racist things, some Bengali plays and fiction, Qing scholars trying to read Adam Smith without knowing English, and some interesting discoveries about incense sticks and Chinese labor.
 
 If any of this sounds interesting, you can check out [the introduction here]({% link assets/[Tea War] Introduction.pdf %}). 
 
-I also liked Yueran Zhang’s review below ([the one in Jacobin](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india)). 
+I also liked [Yueran Zhang’s review below](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india). 
 <br><br>
 ## ways to get it
 
