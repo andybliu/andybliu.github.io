@@ -87,7 +87,7 @@ John Jay Scholar
 
 ## research languages
 
-Classical and Modern Mandarin Chinese  
+Classical and modern Mandarin Chinese  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fluent
 
 Japanese  
