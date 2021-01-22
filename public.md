@@ -3,7 +3,9 @@ layout: page
 title: public writing
 ---
 
-
+["'Where is the working class? It’s all over the world today': Jairus Banaji in conversation with Sheetal Chhabria and Andrew Liu," Part I](https://www.borderlines-cssaame.org/posts/2021/1/18/where-is-the-working-class-its-all-over-the-world-today)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Borderlines* blog for *Comparative Studies of South Asia, Africa and the Middle East*    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  January 22, 2021
 
 ["Weekend Speculations on the Fascism Question"](https://goodbye.substack.com/p/weekend-speculations-on-the-fascism)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* newsletter  
