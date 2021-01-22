@@ -3,6 +3,12 @@ layout: page
 title: academic writing
 ---
 
+
+["'Where is the working class? It’s all over the world today': Jairus Banaji in conversation with Sheetal Chhabria and Andrew Liu," Part I](https://www.borderlines-cssaame.org/posts/2021/1/18/where-is-the-working-class-its-all-over-the-world-today)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Borderlines* blog for *Comparative Studies of South Asia, Africa and the Middle East*    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  January 22, 2021
+
+
 ["Is Covid-19 a 'Just-in-Time' Pandemic?"](https://feralatlas.supdigital.org/poster/is-covid-19-a-just-in-time-pandemic)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Feral Atlas: the More-Than-Human Anthropocene*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed. Anna L. Tsing, Jennifer Deger, Alder Keleman Saxena, and Feifei Zhou  
