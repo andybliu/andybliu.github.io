@@ -50,7 +50,7 @@ Faculty Development Grant
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Villanova University
 
 ### **2012-2014**  
-The Mellon Interdisciplinary Fellow  
+Mellon Interdisciplinary Fellow  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Interdisciplinary Center for Innovative Theory and Empirics (INCITE)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Columbia University
 
@@ -72,7 +72,7 @@ Freeman Fellowship Language Grant
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *language study at the International Chinese Language Program, Taiwan*
 
 ### **2006-2008**  
-Foreign Language and Area Studies Fellowship  
+Foreign Language and Area Studies Fellowships  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *language study for Bengali, Chinese, and Japanese*
 
 
