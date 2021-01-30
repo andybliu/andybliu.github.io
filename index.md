@@ -10,9 +10,7 @@ My book [*Tea War: A history of capitalism in China and India*]({% link book.md 
 
 Right now, I am developing a second project centered on the connections between Hong Kong and Guangdong in southern China and taking place across the 1970s and eighties. From this vantage point, I hope to rethink a series of late-twentieth century transformations involving: "reform and opening" in China, the "miracle" economies of east Asia's "flying geese" and "four tiger" societies, and, more broadly, global political economy. This period is often narrated as a story of the breakdown of Fordism from the standpoint of the north Atlantic, viz., the rise of "neoliberalism." What I am trying to figure out is: how does our view of the modern world change when we pay serious attention to events taking place at the same moment in the Asia-Pacific?
 
-I am also a member of the [Critical China Scholars collective](https://criticalchinascholars.org/), a group of humanists and social scientists committed to advancing solidarity amidst mounting tensions between the US and China.
-
-And I am part of a podcast called [Time to Say Goodbye](https://goodbye.substack.com/), with journalists Jay Caspian Kang and E. Tammy Kim. We touch on topics mostly centered on Asia and Asian America, race, politics, and pop culture.
+I am also a member of the [Critical China Scholars collective](https://criticalchinascholars.org/), a group of humanists and social scientists committed to advancing solidarity amidst mounting tensions between the US and China.  
 
 I grew up in the Seattle suburbs and spent just over a decade in New York as a student, with time in Asia mixed in. Outside of contemplating the world's problems, I spend most of my time thinking about my next bowl of Asian noodles (wide, dry, very spicy) (below) and NBA basketball. With the departure of the Seattle Supersonics (2008, RIP), I have become an NBA generalist. Stephen Curry is my all-time favorite player. If you agree, then we will get along! If you disagree, then you are part of the problem.
 
