@@ -28,6 +28,8 @@ There’s also, of course, a lot about tea, probably more than I ever needed to 
 If any of this sounds interesting, you can check out [the introduction here]({% link assets/[Tea War] Introduction.pdf %}). 
 
 I also liked [Yueran Zhang’s review](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india) below. 
+
+Also, *Tea War* was recently long-listed for the [International Convention of Asian Scholars (ICAS) 2021 book prize for best work in the humanities in English.](https://icas.asia/icas-book-prize-2021)
 <br><br>
 ## ways to get it
 
