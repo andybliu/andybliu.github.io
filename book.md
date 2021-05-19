@@ -46,10 +46,10 @@ Also, *Tea War* was recently long-listed for the [International Convention of As
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Yueran Zhang   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;January 10, 2021
 
-Chinese version:
+Chinese version:  
 ["中国与印度的早期茶叶贸易：资本主义的“自由劳动”体系迷思"](https://www.thepaper.cn/newsDetail_forward_11339399)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*澎湃新闻*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by 张跃然 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*澎湃新闻*    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by 张跃然   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;February 15, 2021
 
 中国与印度的早期茶叶贸易：资本主义的“自由劳动”体系迷思
