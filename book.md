@@ -59,6 +59,12 @@ I also liked [Yueran Zhang’s review](https://jacobinmag.com/2021/01/tea-war-bo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Francis Wade  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 16, 2020
 
+["Rumo ao fundo do poço" ("Towards Rock Bottom")](https://dystopiamag.com/rumo-ao-fundo-do-poco/)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dystopia*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Fernando Pureza  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;April 2021
+
+
 ## short features by me
 
 ["Tea and capitalism: The China tea trade was a paradox -- a global, intensified industry without the usual spectacle of factories and technology"](https://aeon.co/essays/the-china-tea-trade-was-a-paradox-of-global-capitalism)  
