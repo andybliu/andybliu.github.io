@@ -32,6 +32,12 @@ title: public writing
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Nexos: Cultura y la vida cotidiana*  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; trans. Nicolás Medina Mora Pérez  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 8, 2020
+>
+> Korean translation  
+> "‘중국 바이러스’, 그리고 세계시장" 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *팬데믹 이후 중국의 길을 묻다 :대안적 문명과 거버넌스 (Questioning China’s Path After the Pandemic: Alternative Civilizations and Governance)*   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; trans. 백영서 Paek Yŏng-sŏ
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seoul: Ch’aekkwahamkke, 2021   
 > 	
 > Collected in  
 > *[There is No Outside: Covid-19 Dispatches (Verso)](https://www.versobooks.com/books/3620-there-is-no-outside)*  
