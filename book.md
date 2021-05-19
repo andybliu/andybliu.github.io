@@ -72,7 +72,7 @@ I also liked [Yueran Zhang’s review](https://jacobinmag.com/2021/01/tea-war-bo
 ## interviews
 
 ["In Theory": podcast for the *Journal of Intellectual History*](https://jhiblog.org/2021/03/10/andrew-b-liu-on-tea-war-and-political-economy/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Simon Brown
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Simon Brown  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;March 10, 2021
 
 [The New Books Network](https://newbooksnetwork.com/andrew-liu-tea-war-a-history-of-capitalism-in-china-and-india-yale-up-2020)  
