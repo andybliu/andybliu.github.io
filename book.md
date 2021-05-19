@@ -73,6 +73,13 @@ Chinese version:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;April 2021
 
 
+["Reviews of ‘Beyond Pan-Asianism: Connecting China and India, 1840s-1960s’, and ‘Tea-War: A History of Capitalism in China and India’: India’s forgotten China links"](https://www.thehindu.com/books/books-reviews/reviews-of-beyond-pan-asianism-connecting-china-and-india-1840s-1960s-and-tea-war-a-history-of-capitalism-in-china-and-india-indias-forgotten-china-links/article34505239.ece)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Hindu*    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Ananth Krishnan     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 8, 2021
+
+
+
 ## short features by me
 
 ["Tea and capitalism: The China tea trade was a paradox -- a global, intensified industry without the usual spectacle of factories and technology"](https://aeon.co/essays/the-china-tea-trade-was-a-paradox-of-global-capitalism)  
