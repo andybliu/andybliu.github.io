@@ -52,8 +52,6 @@ Chinese version:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by 张跃然   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;February 15, 2021
 
-中国与印度的早期茶叶贸易：资本主义的“自由劳动”体系迷思
-
 ["A fascinating history of the conduct and impact of the tea trade"](https://www.economist.com/prospero/2020/07/24/a-fascinating-history-of-the-conduct-and-impact-of-the-tea-trade)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Economist*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Jeffrey Wasserstrom  
