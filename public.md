@@ -35,8 +35,8 @@ title: public writing
 >
 > Korean translation  
 > "‘중국 바이러스’, 그리고 세계시장"   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *팬데믹 이후 중국의 길을 묻다 :대안적 문명과 거버넌스  
-> (Questioning China’s Path After the Pandemic: Alternative Civilizations and Governance)*   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in *팬데믹 이후 중국의 길을 묻다 :대안적 문명과 거버넌스  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Questioning China’s Path After the Pandemic: Alternative Civilizations and Governance*   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; trans. 백영서 Paek Yŏng-sŏ
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seoul: Ch’aekkwahamkke, 2021   
 > 	
