@@ -12,6 +12,8 @@ Right now, I am developing a second project centered on the connections between 
 
 I am also a member of the [Critical China Scholars collective](https://criticalchinascholars.org/), a group of humanists and social scientists committed to advancing solidarity amidst mounting tensions between the US and China.  
 
+For the last year I've been co-hosting a podcast called ["Time to Say Goodbye" with journalists Jay Kang and Tammy Kim](https://goodbye.substack.com/). We cover topics spanning global politics and culture, Asia, and Asian America. 
+
 I grew up in the Seattle suburbs and spent just over a decade in New York as a student, with time in Asia mixed in. Outside of contemplating the world's problems, I spend most of my time thinking about my next bowl of Asian noodles (wide, dry, very spicy) (below) and NBA basketball. With the departure of the Seattle Supersonics (2008, RIP), I have become an NBA generalist. Stephen Curry is my all-time favorite player. If you agree, then we will get along! If you disagree, then you are part of the problem.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**email address: aliu01 at villanova.edu**
