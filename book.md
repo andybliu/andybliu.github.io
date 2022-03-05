@@ -73,7 +73,7 @@ Chinese version:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;April 2021
 
 [Review in *Journal of Agrarian Change*]({% link assets/Journal of Agrarian Change jairus banaji review of tea war joac.12424.pdf %})  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by Jairus Banaji 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by Jairus Banaji
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 2021
 
 ["Reviews of ‘Beyond Pan-Asianism: Connecting China and India, 1840s-1960s’, and ‘Tea-War: A History of Capitalism in China and India’: India’s forgotten China links"](https://www.thehindu.com/books/books-reviews/reviews-of-beyond-pan-asianism-connecting-china-and-india-1840s-1960s-and-tea-war-a-history-of-capitalism-in-china-and-india-indias-forgotten-china-links/article34505239.ece)    
