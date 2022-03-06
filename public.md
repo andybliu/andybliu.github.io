@@ -3,9 +3,11 @@ layout: page
 title: public writing
 ---
 
-["Weekend Speculations on the Fascism Question"](https://goodbye.substack.com/p/weekend-speculations-on-the-fascism)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Time to Say Goodbye* newsletter  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  January 9, 2021
+
+
+["The Market's Specter: China between Communism and Capitalism](https://www.thenation.com/article/world/china-communism-free-markets/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  March 2022
 
 ["Inadvertent General Strike" with Elias Rodriques](https://nplusonemag.com/online-only/online-only/inadvertent-general-strike/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*   
