@@ -7,7 +7,7 @@ title: public writing
 
 ["The Market's Specter: China between Communism and Capitalism](https://www.thenation.com/article/world/china-communism-free-markets/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  March 2022
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  February 21, 2022
 
 ["Inadvertent General Strike" with Elias Rodriques](https://nplusonemag.com/online-only/online-only/inadvertent-general-strike/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*   
