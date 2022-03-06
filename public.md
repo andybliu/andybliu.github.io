@@ -9,7 +9,7 @@ title: public writing
 
 ["Unpacking The 100-Year History Of The Chinese Communist Party"](https://www.npr.org/2021/07/05/1013203788/unpacking-the-100-year-history-of-the-chinese-communist-party)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*All Things Considered*, National Public Radio  
-July 5, 2021
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 5, 2021
 
 ["Inadvertent General Strike" with Elias Rodriques](https://nplusonemag.com/online-only/online-only/inadvertent-general-strike/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*   
