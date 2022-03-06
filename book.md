@@ -93,10 +93,9 @@ Chinese version:
 
 ## interviews
 
-["Andrew Liu: On rereading Marx and coming to Asian Americanness."](https://www.theblueandwhite.org/post/andrew-liu)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Blue and White: Columbia's Undergraduate Magazine*  
+[*Blue and White: Columbia's Undergraduate Magazine* ](https://www.theblueandwhite.org/post/andrew-liu)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Claire Shang
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 23, 2021  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 23, 2021
 
 ["In Theory": podcast for the *Journal of Intellectual History*](https://jhiblog.org/2021/03/10/andrew-b-liu-on-tea-war-and-political-economy/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Simon Brown  
