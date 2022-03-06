@@ -7,7 +7,7 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  February 21, 2022
 
-["Unpacking The 100-Year History Of The Chinese Communist Party"][https://www.npr.org/2021/07/05/1013203788/unpacking-the-100-year-history-of-the-chinese-communist-party)  
+["Unpacking The 100-Year History Of The Chinese Communist Party"](https://www.npr.org/2021/07/05/1013203788/unpacking-the-100-year-history-of-the-chinese-communist-party)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*All Things Considered*, National Public Radio  
 July 5, 2021
 
