@@ -93,8 +93,8 @@ Chinese version:
 
 ## interviews
 
-[*Blue and White: Columbia's Undergraduate Magazine* ](https://www.theblueandwhite.org/post/andrew-liu)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Claire Shang
+[*Blue and White: Columbia's Undergraduate Magazine* ](https://www.theblueandwhite.org/post/andrew-liu)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Claire Shang  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 23, 2021
 
 ["In Theory": podcast for the *Journal of Intellectual History*](https://jhiblog.org/2021/03/10/andrew-b-liu-on-tea-war-and-political-economy/)  
