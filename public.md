@@ -5,7 +5,7 @@ title: public writing
 
 
 
-["The Market's Specter: China between Communism and Capitalism": A review of Jason Kelly's *Market Maoists* and Isabella Weber's *How China escaped Shock Therapy*_](https://www.thenation.com/article/world/china-communism-free-markets/)  
+["The Market's Specter: China between Communism and Capitalism": A review of Jason Kelly's *Market Maoists* and Isabella Weber's *How China escaped Shock Therapy*](https://www.thenation.com/article/world/china-communism-free-markets/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  February 21, 2022
 
