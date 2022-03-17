@@ -145,5 +145,3 @@ Chinese version:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Wire China*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 10, 2020
 
-
-
