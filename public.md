@@ -2,6 +2,10 @@
 layout: page
 title: public writing
 ---
+["Lab-Leak Theory and the 'Asiatic' Form"](https://www.nplusonemag.com/issue-42/politics/lab-leak-theory-and-the-asiatic-form/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Spring 2022  
+
 
 ["The Market's Specter: China between Communism and Capitalism": A review of Jason Kelly's *Market Maoists* and Isabella Weber's *How China escaped Shock Therapy*](https://www.thenation.com/article/world/china-communism-free-markets/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
