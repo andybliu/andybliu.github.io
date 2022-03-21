@@ -97,6 +97,10 @@ Chinese version:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Claire Shang  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 23, 2021
 
+[Guerrilla History](https://guerrillahistory.libsyn.com/andrew-b-liu)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Henry Hakamaki, Adnan Husain, and Breht O'Shea  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June 18, 2021  
+
 ["In Theory": podcast for the *Journal of Intellectual History*](https://jhiblog.org/2021/03/10/andrew-b-liu-on-tea-war-and-political-economy/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Simon Brown  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;March 10, 2021
