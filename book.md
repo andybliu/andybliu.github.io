@@ -29,7 +29,9 @@ If any of this sounds interesting, you can check out [the introduction here]({% 
 
 I liked [Yueran Zhang’s review](https://jacobinmag.com/2021/01/tea-war-book-review-capitalism-china-india) below. 
 
-*Tea War* was also long-listed for the [International Convention of Asian Scholars (ICAS) 2021 book prize for best work in the humanities in English.](https://icas.asia/icas-book-prize-2021)
+*Tea War* was the recipient of the [2022 Ralph Gomory prize from the Business History Conference,](https://thebhc.org/sites/default/files/blog-post-files/2022-04/2022BHcawards.pdf) which "recognizes historical work on the effects of business enterprises on the economic conditions of the countries in which they operate."
+
+It was also long-listed for the [International Convention of Asian Scholars (ICAS) 2021 book prize for best work in the humanities in English.](https://icas.asia/icas-book-prize-2021)
 <br><br>
 ## ways to get it
 
