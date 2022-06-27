@@ -5,7 +5,7 @@ title: public writing
 
 ["Stephen Curry and the Spirit of History"](https://www.nplusonemag.com/online-only/online-only/stephen-curry-and-the-spirit-of-history/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Summer 2022  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  June 20, 2022 
 
 ["Lab-Leak Theory and the 'Asiatic' Form"](https://www.nplusonemag.com/issue-42/politics/lab-leak-theory-and-the-asiatic-form/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
