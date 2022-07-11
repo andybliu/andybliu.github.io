@@ -12,7 +12,7 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Spring 2022  
 
 > Podcast interview  
-> [*Sinica podcast* with Kaiser Kuo (the SupChina network)](https://supchina.com/podcast/historian-andrew-liu-on-covid-origins-orientalism-and-the-asiatic-racial-form/)  
+> [The *Sinica* podcast with Kaiser Kuo (the SupChina network)](https://supchina.com/podcast/historian-andrew-liu-on-covid-origins-orientalism-and-the-asiatic-racial-form/)  
 > Transcript [here](https://supchina.com/2022/07/07/asiatics-orientals-and-the-origins-of-covid-19/)   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 7, 2022
 >
