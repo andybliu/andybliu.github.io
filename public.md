@@ -16,7 +16,7 @@ title: public writing
 > Transcript [here](https://supchina.com/2022/07/07/asiatics-orientals-and-the-origins-of-covid-19/)   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 7, 2022
 >
-> [Also read aloud by me for the *China Stories* podcast (also SupChina)](https://podcasts.apple.com/us/podcast/n-1-lab-leak-theory-and-the-asiatic-form/id1550780030?i=1000568480065)
+> Also read aloud by me for the [*China Stories* podcast (also SupChina)](https://podcasts.apple.com/us/podcast/n-1-lab-leak-theory-and-the-asiatic-form/id1550780030?i=1000568480065)
 >
 > Linked at [*Lausan*](https://lausan.hk/2022/china-lab-leak-doesnt-exist/)
 
@@ -66,7 +66,7 @@ title: public writing
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seoul: Ch’aekkwahamkke, 2021   
 > 	
 > Collected in  
-> *[There is No Outside: Covid-19 Dispatches (Verso)](https://www.versobooks.com/books/3620-there-is-no-outside)*  
+> [*There is No Outside: Covid-19 Dispatches* (Verso)](https://www.versobooks.com/books/3620-there-is-no-outside)  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed. Jessie Kindig, Mark Krotov, and Marco Roth
 > 	
 > Linked at [*Lausan*](https://lausan.hk/2020/chinese-virus-world-market/)
