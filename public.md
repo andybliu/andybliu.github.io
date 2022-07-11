@@ -11,6 +11,11 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Spring 2022  
 
+> Podcast interview  
+> *[Sinica podcast* with Kaiser Kuo (the SupChina network)](https://supchina.com/podcast/historian-andrew-liu-on-covid-origins-orientalism-and-the-asiatic-racial-form/)  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 7, 2022
+
+> [Also read out loud by me for the *China Stories* podcast (also SupChina)](https://podcasts.apple.com/us/podcast/china-stories/id1550780030)
 
 ["The Market's Specter: China between Communism and Capitalism": A review of Jason Kelly's *Market Maoists* and Isabella Weber's *How China escaped Shock Therapy*](https://www.thenation.com/article/world/china-communism-free-markets/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
