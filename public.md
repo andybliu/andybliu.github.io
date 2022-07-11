@@ -16,6 +16,8 @@ title: public writing
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 7, 2022
 >
 > [Also read aloud by me for the *China Stories* podcast (also SupChina)](https://podcasts.apple.com/us/podcast/n-1-lab-leak-theory-and-the-asiatic-form/id1550780030?i=1000568480065)
+>
+> Linked at [*Lausan*](https://lausan.hk/2022/china-lab-leak-doesnt-exist/)
 
 ["The Market's Specter: China between Communism and Capitalism": A review of Jason Kelly's *Market Maoists* and Isabella Weber's *How China escaped Shock Therapy*](https://www.thenation.com/article/world/china-communism-free-markets/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
