@@ -14,8 +14,8 @@ title: public writing
 > Podcast interview  
 > *[Sinica podcast* with Kaiser Kuo (the SupChina network)](https://supchina.com/podcast/historian-andrew-liu-on-covid-origins-orientalism-and-the-asiatic-racial-form/)  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 7, 2022
-
-> [Also read out loud by me for the *China Stories* podcast (also SupChina)](https://podcasts.apple.com/us/podcast/china-stories/id1550780030)
+>
+> [Also read aloud by me for the *China Stories* podcast (also SupChina)](https://podcasts.apple.com/us/podcast/n-1-lab-leak-theory-and-the-asiatic-form/id1550780030?i=1000568480065)
 
 ["The Market's Specter: China between Communism and Capitalism": A review of Jason Kelly's *Market Maoists* and Isabella Weber's *How China escaped Shock Therapy*](https://www.thenation.com/article/world/china-communism-free-markets/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
