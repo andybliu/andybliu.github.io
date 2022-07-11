@@ -16,7 +16,7 @@ title: public writing
 > Transcript [here](https://supchina.com/2022/07/07/asiatics-orientals-and-the-origins-of-covid-19/)   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 7, 2022
 >
-> Also read aloud by me for the [*China Stories* podcast (also SupChina)](https://podcasts.apple.com/us/podcast/n-1-lab-leak-theory-and-the-asiatic-form/id1550780030?i=1000568480065)
+> Also read aloud by me for the [*China Stories* podcast (SupChina)](https://podcasts.apple.com/us/podcast/n-1-lab-leak-theory-and-the-asiatic-form/id1550780030?i=1000568480065)
 >
 > Linked at [*Lausan*](https://lausan.hk/2022/china-lab-leak-doesnt-exist/)
 
