@@ -85,3 +85,31 @@ title: public writing
 ["How Asia got Crazy Rich: Towards a materialist history of *Crazy Rich Asians*"](https://nplusonemag.com/online-only/online-only/how-asia-got-crazy-rich/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 14, 2018
+
+# Time to Say Goodbye
+
+From April 2020 until June 2022, I was part of a podcast called [Time to Say Goodbye](https://goodbye.substack.com/) with journalists Jay Caspian Kang and E. Tammy Kim. We initially focused on the then-novel pandemic but also pivoted to broader discussions about Asia, Asian America, left politics, and whatever books or headlines were on our minds. A few enduring episodes:
+
+[*The South* and race-class debates with Adolph Reed Jr.](https://goodbye.substack.com/p/adolph-reed-jr-jim-crow-raceclass#details) (Apr. 5, 2022)
+
+['Racial disparity' and race vs. class with Merlin Chowkwanyun](https://goodbye.substack.com/p/racial-disparity-and-race-vs-class#details) (Aug. 20, 2020)
+
+[The aftermath of the Atlanta attacks](https://goodbye.substack.com/p/interpreting-the-atlanta-massacre#details) (Mar. 23, 2021)
+
+[On *Chan is Missing* with Hua Hsu](https://goodbye.substack.com/p/that-identity-shit-thats-old-news#details) (Jan. 19, 2021)
+
+[On *Squid Game*](https://goodbye.substack.com/p/squid-game-we-are-not-horses#details) (Oct. 5, 2021)
+
+[On *Everything Everywhere All at Once*](https://goodbye.substack.com/p/everything-everywhere-all-at-once) (May 24, 2022)
+
+[On *Battle Hymn of the Tiger Mother*](https://goodbye.substack.com/p/battle-hymn-of-a-second-gen-tiger#details) (June 14, 2022)
+
+[Comfort Women denialism with Chelsea Schieder ](https://goodbye.substack.com/p/chelsea-schieder-on-comfort-women#details)(Jun. 11, 2021)
+
+[*Alien Capital* with Iyko Day](https://goodbye.substack.com/p/unlocked-iyko-day-on-asians-as-capital#details) (June 18, 2021)
+
+[Xinjiang and the Uyghur people with Darren Byler](https://goodbye.substack.com/p/darren-byler-on-the-uyghur-people#details) (July 17, 2020)
+
+[Taiwan and the Taiwan diaspora with Brian Hioe and Wen Liu from New Bloom](https://goodbye.substack.com/p/taiwan-with-new-bloom-brian-hioe#details) (Nov. 16, 2021)
+
+
