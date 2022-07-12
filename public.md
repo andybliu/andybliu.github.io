@@ -104,7 +104,7 @@ From April 2020 until June 2022, I was part of a podcast called [Time to Say Goo
 
 [On *Battle Hymn of the Tiger Mother*](https://goodbye.substack.com/p/battle-hymn-of-a-second-gen-tiger#details) (June 14, 2022)
 
-[Comfort Women denialism with Chelsea Schieder ](https://goodbye.substack.com/p/chelsea-schieder-on-comfort-women#details)(Jun. 11, 2021)
+[Comfort Women denialism with Chelsea Schieder ](https://goodbye.substack.com/p/chelsea-schieder-on-comfort-women#details)(June 11, 2021)
 
 [*Alien Capital* with Iyko Day](https://goodbye.substack.com/p/unlocked-iyko-day-on-asians-as-capital#details) (June 18, 2021)
 
