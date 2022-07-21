@@ -4,13 +4,13 @@ title: public writing
 ---
 
 
-["Who digs the mines?: *The Chinese Question: The Gold Rushes and Global Politics* by Mae Ngai"](https://www.lrb.co.uk/the-paper/v44/n14/andrew-liu/who-digs-the-mines)  
+["Who digs the mines?" Review of *The Chinese Question: The Gold Rushes and Global Politics* by Mae Ngai](https://www.lrb.co.uk/the-paper/v44/n14/andrew-liu/who-digs-the-mines)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *London Review of Books*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Vol. 44, No. 14, July 21, 2022    
 
 > Podcast interview  
-> ["China's Gold Rush Migrants"](https://supchina.com/podcast/historian-andrew-liu-on-covid-origins-orientalism-and-the-asiatic-racial-form/)   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *The LRB Podcast* with Thomas Jones   
+> [*The LRB Podcast* with Thomas Jones  ](https://supchina.com/podcast/historian-andrew-liu-on-covid-origins-orientalism-and-the-asiatic-racial-form/)   
+
 
 ["Stephen Curry and the Spirit of History"](https://www.nplusonemag.com/online-only/online-only/stephen-curry-and-the-spirit-of-history/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
