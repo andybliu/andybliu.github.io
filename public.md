@@ -5,7 +5,7 @@ title: public writing
 
 
 ["Who digs the mines?" Review of *The Chinese Question: The Gold Rushes and Global Politics* by Mae Ngai](https://www.lrb.co.uk/the-paper/v44/n14/andrew-liu/who-digs-the-mines)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *London Review of Books*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *London Review of Books*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Vol. 44, No. 14, July 21, 2022    
 
 > Podcast interview  
