@@ -108,11 +108,11 @@ title: public writing
 
 From April 2020 until June 2022, I was part of a podcast called [Time to Say Goodbye](https://goodbye.substack.com/) with journalists Jay Caspian Kang and E. Tammy Kim. We initially focused on the then-novel pandemic but also pivoted to broader discussions about Asia, Asian America, left politics, and whatever books or headlines were on our minds. A few enduring episodes:
 
+[The aftermath of the Atlanta attacks](https://goodbye.substack.com/p/interpreting-the-atlanta-massacre#details) (Mar. 23, 2021)
+
 [*The South* and race-class debates with Adolph Reed Jr.](https://goodbye.substack.com/p/adolph-reed-jr-jim-crow-raceclass#details) (Apr. 5, 2022)
 
 ['Racial disparity' and race vs. class with Merlin Chowkwanyun](https://goodbye.substack.com/p/racial-disparity-and-race-vs-class#details) (Aug. 20, 2020)
-
-[The aftermath of the Atlanta attacks](https://goodbye.substack.com/p/interpreting-the-atlanta-massacre#details) (Mar. 23, 2021)
 
 [On *Chan is Missing* with Hua Hsu](https://goodbye.substack.com/p/that-identity-shit-thats-old-news#details) (Jan. 19, 2021)
 
