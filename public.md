@@ -45,11 +45,11 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 28, 2020
 
-> Linked at [*Lausan*](https://lausancollective.com/2020/camps-in-xinjiang-global-problem/) 
-> Chinese translation  
-> ["新疆集中營是個全球性問題"](https://lausancollective.com/2021/camps-in-xinjiang-global-problem-chinese/)  
+> Linked at [*Lausan*](https://lausancollective.com/2020/camps-in-xinjiang-global-problem/)      
+> Chinese translation        
+> ["新疆集中營是個全球性問題"](https://lausancollective.com/2021/camps-in-xinjiang-global-problem-chinese/)     
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Lausan*  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; trans. Yeejian L.
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; trans. Yeejian L.      
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 11, 2021
 
 ["Inadvertent General Strike" with Elias Rodriques](https://nplusonemag.com/online-only/online-only/inadvertent-general-strike/)  
