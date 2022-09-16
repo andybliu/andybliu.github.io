@@ -45,7 +45,8 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 28, 2020
 
-> Linked at [*Lausan*](https://lausancollective.com/2020/camps-in-xinjiang-global-problem/)      
+> Linked at [*Lausan*](https://lausancollective.com/2020/camps-in-xinjiang-global-problem/)   
+>    
 > Chinese translation        
 > ["新疆集中營是個全球性問題"](https://lausancollective.com/2021/camps-in-xinjiang-global-problem-chinese/)     
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Lausan*  
@@ -92,14 +93,11 @@ title: public writing
 > Linked at [*Lausan*](https://lausancollective.com/2020/chinese-virus-world-market/)
 
 
-
-
 ["Does Hong Kong Even Need the NBA?: A protest movement becomes a prop in the US culture war"](https://www.motherjones.com/politics/2019/10/does-hong-kong-even-need-the-nba/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mother Jones*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 10, 2019
 
 > Linked at [*Lausan*](https://lausancollective.com/2019/does-hong-kong-even-need-the-nba/) 
-
 
 
 ["How Asia got Crazy Rich: Towards a materialist history of *Crazy Rich Asians*"](https://nplusonemag.com/online-only/online-only/how-asia-got-crazy-rich/)  
