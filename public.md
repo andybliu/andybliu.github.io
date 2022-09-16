@@ -27,7 +27,7 @@ title: public writing
 >
 > Also read aloud for the [*China Stories* podcast (SupChina)](https://podcasts.apple.com/us/podcast/n-1-lab-leak-theory-and-the-asiatic-form/id1550780030?i=1000568480065)
 >
-> Linked at [*Lausan*](https://lausan.hk/2022/china-lab-leak-doesnt-exist/)
+> Linked at [*Lausan*](https://lausancollective.com/2022/china-lab-leak-doesnt-exist/)
 
 ["The Market's Specter: China between Communism and Capitalism": A review of Jason Kelly's *Market Maoists* and Isabella Weber's *How China escaped Shock Therapy*](https://www.thenation.com/article/world/china-communism-free-markets/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
@@ -78,7 +78,7 @@ title: public writing
 > [*There is No Outside: Covid-19 Dispatches* (Verso)](https://www.versobooks.com/books/3620-there-is-no-outside)  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed. Jessie Kindig, Mark Krotov, and Marco Roth
 > 	
-> Linked at [*Lausan*](https://lausan.hk/2020/chinese-virus-world-market/)
+> Linked at [*Lausan*](https://lausancollective.com/2020/chinese-virus-world-market/)
 
 
 
@@ -87,7 +87,7 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mother Jones*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 10, 2019
 
-> Linked at [*Lausan*](https://lausan.hk/2019/does-hong-kong-even-need-the-nba/) 
+> Linked at [*Lausan*](https://lausancollective.com/2019/does-hong-kong-even-need-the-nba/) 
 
 
 
