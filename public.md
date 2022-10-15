@@ -9,7 +9,7 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Vol. 44, No. 14, July 21, 2022    
 
 > Podcast interview  
-> [*The LRB Podcast* with Thomas Jones  ](https://supchina.com/podcast/historian-andrew-liu-on-covid-origins-orientalism-and-the-asiatic-racial-form/)   
+> [*The LRB Podcast* with Thomas Jones  ](https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/china-s-gold-rush-migrants/)   
 
 
 ["Stephen Curry and the Spirit of History"](https://www.nplusonemag.com/online-only/online-only/stephen-curry-and-the-spirit-of-history/)  
