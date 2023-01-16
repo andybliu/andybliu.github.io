@@ -96,7 +96,7 @@ Chinese version:
 ## interviews
 
 ["Histories of Capitalism and Race in the Middle East and Indian Ocean" seminar series](https://www.youtube.com/watch?v=vSXMiIgCJ-Q)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Walter Rodney Collective for Historical Research, SOAS, University of London
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Walter Rodney Collective for Historical Research, SOAS, University of London  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;December 8, 2022
 
 [*Blue and White: Columbia's Undergraduate Magazine* ](https://www.theblueandwhite.org/post/andrew-liu)  
