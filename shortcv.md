@@ -7,7 +7,12 @@ title: short c.v.
 
 ## appointments
 
-### 2014 - present  
+### 2022 - present  
+Associate Professor   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of History, Villanova University
+
+
+### 2014 - 2022  
 Assistant Professor  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of History, Villanova University
 
