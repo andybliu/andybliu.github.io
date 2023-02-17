@@ -37,7 +37,7 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*All Things Considered*, National Public Radio  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 5, 2021
 
-["Roundtable on China: a dialogue between Lausan and Critical China Scholars](https://spectrejournal.com/roundtable-on-china/)  
+["Roundtable on China: a dialogue between Lausan and Critical China Scholars"](https://spectrejournal.com/roundtable-on-china/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Spectre*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;March 10, 2021   
 
