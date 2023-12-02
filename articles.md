@@ -4,8 +4,11 @@ title: academic writing
 ---
 
 ["Levels of Abstraction? Jairus Banaji’s Method and a Reconsideration of Chinese Merchant Capital"](https://www.viella.it/download/7299/4042cd4fe0ac/storica-83-84-forum.pdf) 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Storica* 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; no. 83-84  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022
 
 ["'Where is the working class? It’s all over the world today': Jairus Banaji in conversation with Sheetal Chhabria and Andrew Liu," Part I](https://www.borderlines-cssaame.org/posts/2021/1/18/where-is-the-working-class-its-all-over-the-world-today)  
