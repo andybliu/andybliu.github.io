@@ -3,6 +3,9 @@ layout: page
 title: public writing
 ---
 
+[A Racist Cause-and-Effect Story](https://www.thedriftmag.com/a-racist-cause-and-effect-story/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *the drift*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Issue 11, November 8, 2023    
 
 ["Who digs the mines?" Review of *The Chinese Question: The Gold Rushes and Global Politics* by Mae Ngai](https://www.lrb.co.uk/the-paper/v44/n14/andrew-liu/who-digs-the-mines)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *London Review of Books*  
