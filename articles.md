@@ -3,7 +3,7 @@ layout: page
 title: academic writing
 ---
 
-["Levels of Abstraction? Jairus Banaji’s Method and a Reconsideration of Chinese Merchant Capita"] (https://www.viella.it/download/7299/4042cd4fe0ac/storica-83-84-forum.pdf)
+["Levels of Abstraction? Jairus Banaji’s Method and a Reconsideration of Chinese Merchant Capital"](https://www.viella.it/download/7299/4042cd4fe0ac/storica-83-84-forum.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Storica*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; no. 83-84 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022
