@@ -44,10 +44,6 @@ title: public writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Spectre*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;March 10, 2021   
 
-["We Need to Think About Xinjiang in Internationalist Terms"](https://www.thenation.com/article/world/xinjiang-uigher-camps/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Nation*   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 28, 2020
-
 > Linked at [*Lausan*](https://lausancollective.com/2020/camps-in-xinjiang-global-problem/)   
 >    
 > Chinese translation        
