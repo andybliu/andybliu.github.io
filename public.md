@@ -3,7 +3,20 @@ layout: page
 title: public writing
 ---
 
-[A Racist Cause-and-Effect Story](https://www.thedriftmag.com/a-racist-cause-and-effect-story/)  
+["Back to the '80s? Trump's tariff obsession, then and now"](https://www.nplusonemag.com/issue-50/politics/back-to-the-80s-2/)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *n+1 magazine*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spring 2025
+
+>Shorter version:
+>[“‘Bring me my tariffs’: how Trump’s China plan was 40 years in the making”](https://www.theguardian.com/news/2025/feb/06/bring-me-my-tariffs-how-trumps-china-plan-was-40-years-in-the-making)  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Guardian Long Read*  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 6, 2025]  
+>
+>Podcast interviews  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*American Prestige* podcast](https://americanprestige.supportingcast.fm/listen/american-prestige-1/bonus-trump-xi-jinping-and-tariffs-w-andy-liu-preview)  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Sinica* podcast](https://www.sinicapodcast.com/p/transcript-back-to-the-80s-for-trump)
+
+["A Racist Cause-and-Effect Story"](https://www.thedriftmag.com/a-racist-cause-and-effect-story/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *the drift*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Issue 11, November 8, 2023    
 
