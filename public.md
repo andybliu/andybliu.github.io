@@ -10,7 +10,7 @@ title: public writing
 >Shorter version:
 >[“‘Bring me my tariffs’: how Trump’s China plan was 40 years in the making”](https://www.theguardian.com/news/2025/feb/06/bring-me-my-tariffs-how-trumps-china-plan-was-40-years-in-the-making)  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Guardian Long Read*  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 6, 2025]  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 6, 2025   
 >
 >Podcast interviews  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*American Prestige* podcast](https://americanprestige.supportingcast.fm/listen/american-prestige-1/bonus-trump-xi-jinping-and-tariffs-w-andy-liu-preview)  
