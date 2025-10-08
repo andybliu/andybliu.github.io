@@ -29,6 +29,10 @@ BA, Columbia University
 
 ## awards and grants
 
+### **2024-2025**  
+Public Intellectual Program fellow     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Committee on US China Relations 
+
 ### **2019**  
 Short-term Residency Grant   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; InterAsia Program    
