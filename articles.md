@@ -4,7 +4,7 @@ title: academic writing
 ---
 
 
-["Surface and Deep Structure: Moishe Postone and the history of the neoliberal era"]()  
+["Surface and Deep Structure: Moishe Postone and the history of the neoliberal era"]({% link assets/Liu CHS surface deep structure.pdf %})  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Critical Historical Studies* 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vol. 13, no. 1, 1-31
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2026  
