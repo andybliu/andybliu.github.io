@@ -4,10 +4,16 @@ title: academic writing
 ---
 
 
-"Surface and Deep Structure: Moishe Postone and the history of the neoliberal era"  
+["Surface and Deep Structure: Moishe Postone and the history of the neoliberal era"]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Critical Historical Studies* 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vol. 13, no. 1, 1-31
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2026  
+
+["A Commodity-Form Theory of Transition: On reading *Capital*, Asia, and the capitalist epoch in the rest of the world"]()  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mediations: Journal of the Marxist Literary Group* 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vol. 37, no. 1, 3-26
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2026  
+
 
 
 "From the Great Divergence to New Histories of Capitalism"  
