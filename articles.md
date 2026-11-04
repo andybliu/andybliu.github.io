@@ -15,7 +15,7 @@ title: academic writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2026  
 
 ["From the Great Divergence to New Histories of Capitalism"]({% link assets/Liu GEH proofs.pdf %})   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Global Economic History*, second edition](https://www.bloomsbury.com/us/global-economic-history-9781350290082/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Global Economic History*, second edition]    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed. Tirthankar Roy, Giorgio Riello  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2024  
 
