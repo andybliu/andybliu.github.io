@@ -3,6 +3,13 @@ layout: page
 title: academic writing
 ---
 
+
+"Surface and Deep Structure: Moishe Postone and the history of the neoliberal era"  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Critical Historical Studies* 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vol. 13, no. 1, 1-31
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2026  
+
+
 "From the Great Divergence to New Histories of Capitalism"  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Global Economic History*, second edition](https://www.bloomsbury.com/us/global-economic-history-9781350290082/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed. Tirthankar Roy, Giorgio Riello  
