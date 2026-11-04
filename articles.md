@@ -9,14 +9,12 @@ title: academic writing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vol. 13, no. 1, 1-31
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2026  
 
-["A Commodity-Form Theory of Transition: On reading *Capital*, Asia, and the capitalist epoch in the rest of the world"]()  
+["A Commodity-Form Theory of Transition: On reading *Capital*, Asia, and the capitalist epoch in the rest of the world"](https://mediationsjournal.org/articles/theory-of-transition)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mediations: Journal of the Marxist Literary Group* 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vol. 37, no. 1, 3-26
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2026  
 
-
-
-"From the Great Divergence to New Histories of Capitalism"  
+["From the Great Divergence to New Histories of Capitalism"]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Global Economic History*, second edition](https://www.bloomsbury.com/us/global-economic-history-9781350290082/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed. Tirthankar Roy, Giorgio Riello  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; October 2024  
